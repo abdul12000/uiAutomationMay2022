@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="10.912">
+    <testcase classname="ComputerDatabase" name="2 Computer name field should take any type of xter/symbol" time="10.132">
+        <system-out><![CDATA[Given I am on the Play sample application home page.........................passed
+When I click on "Add new computer" button...................................passed
+And I enter information as follows..........................................passed
+Then I should be able to add the computer name to the Computer database.....passed
+]]></system-out>
+    </testcase>
+</testsuite>
