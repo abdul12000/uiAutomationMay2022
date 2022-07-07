@@ -11,4 +11,10 @@ public class ClassA {
         System.out.println("This is my first program");
 
     }
+    @Test
+    public void myFirstMethodNot(){
+        System.out.println("Hello world two");
+        System.out.println("This is my second program");
+
+    }
 }
